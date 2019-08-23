@@ -1,0 +1,9 @@
+{
+  "seed": 12345,
+  "terminal_groups": [
+    "phenol",
+    "phenol"
+  ],
+  "chainlength": 17,
+  "n": 100
+}

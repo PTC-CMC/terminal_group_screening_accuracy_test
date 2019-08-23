@@ -1,0 +1,9 @@
+{
+  "seed": 12345,
+  "terminal_groups": [
+    "difluoromethyl",
+    "difluoromethyl"
+  ],
+  "chainlength": 17,
+  "n": 100
+}

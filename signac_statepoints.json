@@ -1,0 +1,191 @@
+{
+  "6e16de95552aa22101e0fdda34b7b26a": {
+    "terminal_groups": [
+      "carboxybenzene",
+      "carboxybenzene"
+    ],
+    "seed": 12345,
+    "chainlength": 17,
+    "n": 100
+  },
+  "3b2f645b59431b1d63b2874fb619041c": {
+    "terminal_groups": [
+      "difluoromethyl",
+      "difluoromethyl"
+    ],
+    "seed": 37035,
+    "chainlength": 17,
+    "n": 100
+  },
+  "b85bbab0cb5de6515438aa482e44d535": {
+    "terminal_groups": [
+      "difluoromethane",
+      "difluoromethane"
+    ],
+    "seed": 12345,
+    "chainlength": 17,
+    "n": 100
+  },
+  "bb23d9b4c088fe82c7dde22c93dca4fd": {
+    "terminal_groups": [
+      "toluene",
+      "toluene"
+    ],
+    "seed": 24690,
+    "chainlength": 17,
+    "n": 100
+  },
+  "6e888f908202a49e4af55cf48445e7f4": {
+    "terminal_groups": [
+      "toluene",
+      "toluene"
+    ],
+    "seed": 12345,
+    "chainlength": 17,
+    "n": 100
+  },
+  "cb402b03401d944fd65b296e5086ad3a": {
+    "terminal_groups": [
+      "benzoicacid",
+      "benzoicacid"
+    ],
+    "seed": 24690,
+    "chainlength": 17,
+    "n": 100
+  },
+  "0fbf7c6934dedac064fb82e17e71a370": {
+    "terminal_groups": [
+      "toluene",
+      "toluene"
+    ],
+    "seed": 37035,
+    "chainlength": 17,
+    "n": 100
+  },
+  "9d7e73e100440d4b6b5177b3fbaca580": {
+    "terminal_groups": [
+      "phenol",
+      "phenol"
+    ],
+    "seed": 37035,
+    "chainlength": 17,
+    "n": 100
+  },
+  "40e4711cba49db7df6b78151588e460a": {
+    "terminal_groups": [
+      "difluoromethane",
+      "difluoromethane"
+    ],
+    "seed": 24690,
+    "chainlength": 17,
+    "n": 100
+  },
+  "8f149e7752cd5d2058b42b97ed19a256": {
+    "terminal_groups": [
+      "benzoicacid",
+      "benzoicacid"
+    ],
+    "seed": 37035,
+    "chainlength": 17,
+    "n": 100
+  },
+  "2cf30e68f4f72d69648fb5bebbd38bb8": {
+    "terminal_groups": [
+      "isopropylbenzene",
+      "isopropylbenzene"
+    ],
+    "seed": 37035,
+    "chainlength": 17,
+    "n": 100
+  },
+  "5541f841b35f0f3099482c26045a2232": {
+    "terminal_groups": [
+      "benzoicacid",
+      "benzoicacid"
+    ],
+    "seed": 12345,
+    "chainlength": 17,
+    "n": 100
+  },
+  "4d34b2f138fbf24336b1deede831d13c": {
+    "terminal_groups": [
+      "phenol",
+      "phenol"
+    ],
+    "seed": 12345,
+    "chainlength": 17,
+    "n": 100
+  },
+  "93b48f45b448b23117e9783a9cf07862": {
+    "terminal_groups": [
+      "carboxybenzene",
+      "carboxybenzene"
+    ],
+    "seed": 37035,
+    "chainlength": 17,
+    "n": 100
+  },
+  "2c73b825c89e9613e6037576857649f8": {
+    "terminal_groups": [
+      "phenol",
+      "phenol"
+    ],
+    "seed": 24690,
+    "chainlength": 17,
+    "n": 100
+  },
+  "cff74fe8f6dcdb75f05160ea3417b185": {
+    "terminal_groups": [
+      "difluoromethyl",
+      "difluoromethyl"
+    ],
+    "seed": 24690,
+    "chainlength": 17,
+    "n": 100
+  },
+  "99d984daebef5e0174de89bd0b402da1": {
+    "terminal_groups": [
+      "isopropylbenzene",
+      "isopropylbenzene"
+    ],
+    "seed": 12345,
+    "chainlength": 17,
+    "n": 100
+  },
+  "1ac0b60786b21c04aaf2d212901b2dae": {
+    "terminal_groups": [
+      "difluoromethyl",
+      "difluoromethyl"
+    ],
+    "seed": 12345,
+    "chainlength": 17,
+    "n": 100
+  },
+  "98fd41200674477df9f0fc24756fbc40": {
+    "terminal_groups": [
+      "difluoromethane",
+      "difluoromethane"
+    ],
+    "seed": 37035,
+    "chainlength": 17,
+    "n": 100
+  },
+  "d1c2a9070ea6036afe7934155f3b76d9": {
+    "terminal_groups": [
+      "isopropylbenzene",
+      "isopropylbenzene"
+    ],
+    "seed": 24690,
+    "chainlength": 17,
+    "n": 100
+  },
+  "f81f1294ddc6aadcc93ad9ca11f941a6": {
+    "terminal_groups": [
+      "carboxybenzene",
+      "carboxybenzene"
+    ],
+    "seed": 24690,
+    "chainlength": 17,
+    "n": 100
+  }
+}

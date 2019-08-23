@@ -1,0 +1,9 @@
+{
+  "seed": 12345,
+  "terminal_groups": [
+    "benzoicacid",
+    "benzoicacid"
+  ],
+  "chainlength": 17,
+  "n": 100
+}
