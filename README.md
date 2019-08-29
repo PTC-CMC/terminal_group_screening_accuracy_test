@@ -53,7 +53,7 @@ should be installed automatically.
 ```
 
 #### Clone the terminal_group_mixed_original_16_new_3 repository
-`>> git clone https://github.com/PTC-CMC/terminal_group_mixed_original_16_new_3.git`
+`>> git clone https://github.com/PTC-CMC/terminal_group_screening_accuracy_test.git`
 
 #### Initialize the project
 Note: All flow commands must be performed from the project root directory.
